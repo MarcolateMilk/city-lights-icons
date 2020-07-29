@@ -2,6 +2,8 @@
 
 Icon theme to go along with my [City Lights GTK+ 3 Theme](https://github.com/MarcolateMilk/city-lights-gtk).
 
+![Showcase picture](/pictures/nautilus.png)
+
 ## Notes
 
 * I merely recolored and slightly changed the design of the Adwaita icons to make them more uniform, I do not take any credit for the icons' design
